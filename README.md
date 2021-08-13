@@ -3,20 +3,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcoderse" alt="darkcoderse" /> </p>
 
-- 🔭 I’m currently working on **PHP Laravel, C# WPF and Android**
+- 🔭 I’m currently working on **PHP Laravel, C# WPF, and ElasticSearch**
 
-- 🌱 I’m currently learning **WPF Entity Framework 6**
+- 🌱 I’m currently learning **ElasticSearch**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **System Administration**
 
-- 🤝 I’m looking for help with **Android Development**
+- 🤝 I’m looking for help with **Dev Operations**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darkcoderse](https://github.com/darkcoderse)
 
-- 📝 I regulary write articles on [http://darkcoderse.com](http://darkcoderse.com)
+- 📝 I regulary write articles on [http://kashifsaleem.co](http://kashifsaleem.co)
 
-- 💬 Ask me about **Laravel, ReactJS, NodeJS, C# WPF and E-Hacking**
+- 💬 Ask me about **Laravel, ReactJS, NodeJS, ElasticSearch, C# WPF and Ethical-Hacking**
 
 - 📫 How to reach me **darkcoder1996@gmail.com**
 
-- ⚡ Fun fact **No Chai, No Coffee**
+- ⚡ Fun fact **Artist, Gamer, and Engineer**
