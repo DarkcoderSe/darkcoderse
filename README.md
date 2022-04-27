@@ -7,16 +7,14 @@
 
 - 🌱 I’m currently learning **ElasticSearch**
 
-- 👯 I’m looking to collaborate on **System Administration**
-
-- 🤝 I’m looking for help with **Dev Operations**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darkcoderse](https://github.com/darkcoderse)
 
-- 📝 I regulary write articles on [http://kashifsaleem.co](http://kashifsaleem.co)
+- 📝 I regulary write articles on [http://kashifsaleem.co/blog](http://kashifsaleem.co)
 
 - 💬 Ask me about **Laravel, ReactJS, NodeJS, ElasticSearch, C# WPF and Ethical-Hacking**
 
 - 📫 How to reach me **darkcoder1996@gmail.com**
 
-- ⚡ Fun fact **Artist, Gamer, and Engineer**
+- ⚡ Fun fact **Artist (IG:artbykashif), Gamer (Valo: zoltanchevy#1337), and Engineer**
