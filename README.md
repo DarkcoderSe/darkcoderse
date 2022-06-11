@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **ElasticSearch**
+- 🌱 I’m currently learning **TerraForm**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/darkcoderse](https://github.com/darkcoderse)
 
-- 💬 Ask me about **Laravel, ReactJS, NodeJS, ElasticSearch, C# WPF and Ethical-Hacking**
+- 💬 Ask me about **Laravel, Django, ReactJS, NodeJS, ElasticSearch, C# E6, AWS, TerraForm and Ethical-Hacking**
