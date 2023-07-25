@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dark Coder</h1>
-<h3 align="center">A passionate full stack developer from United States</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcoderse" alt="darkcoderse" /> </p>
 
