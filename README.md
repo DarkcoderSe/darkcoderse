@@ -1,14 +1,51 @@
-<h1 align="center">Hi 👋, I'm Dark Coder</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center">🚀 Dark Coder - Full Stack Developer</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcoderse" alt="darkcoderse" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darkcoderse" alt="darkcoderse" />
+</p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+<div align="center">
+  <p>👨‍💻 7+ Years of Experience in Crafting Digital Solutions</p>
+  <p>🚀 Transforming Ideas into Reality with Futuristic Tech Stacks</p>
+</div>
 
-- 🌱 I’m currently learning **TerraForm**
+### 🌐 Portfolio & Projects
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🌍 Explore my work at [darkcoderse.com](https://darkcoderse.com)
+- 🚀 All projects are available at [GitHub](https://github.com/darkcoderse)
 
-- 👨‍💻 All of my projects are available at [https://github.com/darkcoderse](https://github.com/darkcoderse)
+### 🚀 Current Focus
 
-- 💬 Ask me about **Laravel, Django, ReactJS, NodeJS, ElasticSearch, C# E6, AWS, TerraForm and Ethical-Hacking**
+- 🔭 Full Stack Development
+- 🌱 Learning TerraForm for Cloud Infrastructure
+
+### 💬 Let's Talk Tech
+
+- JavaScript Enthusiast 🚀
+- MERN Stack Magician 🌐
+- Laravel & Django Craftsman ⚙️
+- AWS & TerraForm Explorer ☁️
+
+### 🚀 Futuristic Tech Stack
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+</p>
+
+### 📫 Let's Connect
+
+- LinkedIn: [Dark Coder](https://www.linkedin.com/in/darkcoderse/)
+- Twitter: [Dark Coder on Twitter](https://twitter.com/darkcoderse)
+
+🚀 Let's build the future together! 🌌
