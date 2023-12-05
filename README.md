@@ -49,3 +49,9 @@
 - Twitter: [Dark Coder on Twitter](https://twitter.com/darkcoderse)
 
 🚀 Let's build the future together! 🌌
+
+
+
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/darkcoderse/langs?time_range=one_year&use_percent=True&include_private=True&theme=bright_lights)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=darkcoderse)](https://github.com/ryo-ma/github-profile-trophy)
