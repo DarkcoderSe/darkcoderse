@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <p>👨‍💻 7+ Years of Experience in Crafting Digital Solutions</p>
+  <p>👨‍💻 8+ Years of Experience in Crafting Digital Solutions</p>
   <p>🚀 Transforming Ideas into Reality with Futuristic Tech Stacks</p>
 </div>
 
@@ -39,7 +39,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>  
   <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" alt="laravel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
 </p>
 
@@ -50,8 +50,5 @@
 
 🚀 Let's build the future together! 🌌
 
-
-
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/darkcoderse/langs?time_range=one_year&use_percent=True&include_private=True&theme=bright_lights)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=darkcoderse)](https://github.com/ryo-ma/github-profile-trophy)
