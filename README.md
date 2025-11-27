@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Dark Coder - Full Stack Developer</h1>
+<h1 align="center">🚀 Kashif S. - Full Stack Developer</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=darkcoderse" alt="darkcoderse" />
