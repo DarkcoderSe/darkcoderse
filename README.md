@@ -50,5 +50,3 @@
 
 🚀 Let's build the future together! 🌌
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=darkcoderse)](https://github.com/ryo-ma/github-profile-trophy)
